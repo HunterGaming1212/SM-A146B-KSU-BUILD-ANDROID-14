@@ -13,4 +13,4 @@ export DEPMOD=depmod
 export ARCH=arm64
 export TARGET_SOC=s5e8535
 make hunter_defconfig
-make
+make -j$(nproc)
