@@ -1,6 +1,6 @@
-# Original Source Code
+# Samsung Open Source
 
-- Samsung Open Source ( https://opensource.samsung.com/main )
+- https://opensource.samsung.com/main
 
 # How do I submit patches to Android Common Kernels
 
